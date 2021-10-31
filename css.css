@@ -1,0 +1,13 @@
+#paper{
+    border: 2px solid blue;
+    position: absolute;
+    margin-left: 500px;
+    margin-top: 50px;
+}
+#gameScore{
+    position: absolute;
+    margin-left: 700px;
+    margin-top: 20px;
+    color: blue;
+    font-size: 30px;
+}
